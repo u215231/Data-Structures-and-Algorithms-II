@@ -5,3 +5,4 @@ desktop.ini
 .vscode
 build_linux/*
 build_windows/*
+!README.md
