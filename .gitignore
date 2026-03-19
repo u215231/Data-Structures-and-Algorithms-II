@@ -1,0 +1,7 @@
+*.obj
+*.o
+*.d
+desktop.ini
+.vscode
+build_linux/*
+build_windows/*

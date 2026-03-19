@@ -1,0 +1,11 @@
+cat
+es
+fr
+com
+net
+org
+edu
+info
+int
+biz
+mil
